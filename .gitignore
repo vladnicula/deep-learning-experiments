@@ -1,3 +1,4 @@
 input-*
 train_data.*.npy
 test_data.*.npy
+*.ckpt.*
