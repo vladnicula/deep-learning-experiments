@@ -1,2 +1,2 @@
-model_checkpoint_path: "/home/vlad/projects/deep-learning-nano/03-kaggle-dogs-vs-cats/alandala.ckpt"
-all_model_checkpoint_paths: "/home/vlad/projects/deep-learning-nano/03-kaggle-dogs-vs-cats/alandala.ckpt"
+model_checkpoint_path: "/home/vlad/projects/deep-learning-nano/03-kaggle-dogs-vs-cats/vnn16_06.ckpt"
+all_model_checkpoint_paths: "/home/vlad/projects/deep-learning-nano/03-kaggle-dogs-vs-cats/vnn16_06.ckpt"
